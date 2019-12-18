@@ -1,0 +1,6 @@
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project3\Project3\bin\Debug\Project3.exe.config
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project3\Project3\bin\Debug\Project3.exe
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project3\Project3\bin\Debug\Project3.pdb
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project3\Project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project3\Project3\obj\Debug\Project3.exe
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project3\Project3\obj\Debug\Project3.pdb
